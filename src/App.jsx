@@ -158,7 +158,7 @@ function App() {
 
       <div className='Header'>
         <div>
-          Calculator of Joefer Miguel
+          Calculator of Joefer Miguel Tulabut
         </div>
 
         <div className='Section'>
